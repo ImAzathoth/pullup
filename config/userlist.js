@@ -26,6 +26,7 @@ module.exports = {
         'hemanth',
         'humd',
         'ianwalter',
+        'imazathoth',
         'isaaczafuta',
         'jackcarter',
         'jeffawang',
